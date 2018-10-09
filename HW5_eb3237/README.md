@@ -32,8 +32,19 @@ Logistic Regression	| 1, satisfactory or not satisfactory glycaemic control (HbA
 
 ![](https://github.com/eb3237/PUI2018_eb3237/blob/master/HW5_eb3237/Screen%20Shot%202018-10-09%20at%203.19.40%20PM.png)
 
+![](https://github.com/eb3237/PUI2018_eb3237/blob/master/HW5_eb3237/Screen%20Shot%202018-10-09%20at%203.23.26%20PM.png)
+
 #### Paper 3
 
+| **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var typ**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
+|:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
+Correlation	| 1, the mimicry score | continious | correlated  with all the scores of the automatic imitation task (i.e., congruency effect, facilitation effect, and interference effect for reaction times as well as for error rates) | 1, continious | HbA1c status | continuous (could also be categorical) | 	Is there the relationship between mimicry and automatic imitation | H0: no correlation between the mimicry score and the  automatic imitation task score | 0.05 | [Mimicry and automatic imitation are not correlated
+](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0183784) |
+  |||||||||
+  
+  ![](https://github.com/eb3237/PUI2018_eb3237/blob/master/HW5_eb3237/Screen%20Shot%202018-10-09%20at%203.28.57%20PM.png)
+
+  
 **Assignments 3 and 4**
 
 I worked alone using Federica's skeleton and a lot of Google help and took general advice from TA about interpreting results
