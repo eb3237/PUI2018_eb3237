@@ -29,7 +29,7 @@ $H_A$: The average trip time of men biking on weekdays in _New York City_ is mor
 
 - It would be nice to state the null and alternative hypothesis in mathematical sense, for example:
 
-$H_0$:
+$H_0$: $\frac{W{\mathrm{weekend}}}{W{\mathrm{total}}} <= \frac{M{\mathrm{weekend}}}{M_{\mathrm{total}}}$
 
 $H_A$:
 
