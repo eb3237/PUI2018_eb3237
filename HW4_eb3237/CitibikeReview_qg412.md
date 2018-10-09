@@ -50,6 +50,6 @@ Decision tree resulting in the choice of statistical test (credits @ https://www
 
 What data type is the datasets? > Numerical due to trip duration > Does it follow normal distribution? > Yes, the average trip duration is likely to observe a bell shape normal distribution> Use Parametric Tests, but is the two samples paired or unpaired? > Unpaired, because there is an unlikely possibility of the values in the males cycling dataset being related to or being influenced by the values in the females cycling dataset > Therefore, choose **T-test** for 2 groups of unpaired sample. 
 
-### 4) Additional suggestion on variation on question
+### 4) Additional suggestion regarding variation on question
 
 I think one interesting question that we can ask further is: do men cycle a longer average trip duration than women from the same starting location? This will involve pairing the dataset and narrowing down the study area to selected locations. This can perhaps shed some light on travel patterns of different genders. For eg if we find that women travel shorter on bicycle- one of the many potential reason could be because of the fact that they tend to find jobs near homes so that they can reach home to care for their children? 
