@@ -35,6 +35,7 @@ H_0: M - W <= 0
 H_A: M - W >= 0
 
 Where M is the average trip time of men biking on weekdays in NYC
+
 While W is the average trip time of women biking on weekdays in NYC
 
 - I think you can determine and state the significance level together with the hypothesis statements, for example "at a significance level of p=0.05". Rationale: Prof Bianco mentioned in lecture that it is very important to set the significance level at the outset, if not we risk being accused of setting the p-value at the end of analysis which is statistically (& morally) wrong. 
