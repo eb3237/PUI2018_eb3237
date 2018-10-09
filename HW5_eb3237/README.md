@@ -18,6 +18,7 @@ ANCOVA	| 3 APL groups: (1)professional, (2)semi-professional, (3)non-professiona
   |||||||||
 
 
+![](https://github.com/eb3237/PUI2018_eb3237/blob/master/HW5_eb3237/Screen%20Shot%202018-10-09%20at%201.04.59%20PM.png)
 
 
 
@@ -28,6 +29,10 @@ ANCOVA	| 3 APL groups: (1)professional, (2)semi-professional, (3)non-professiona
 Logistic Regression	| 1, satisfactory or not satisfactory glycaemic control (HbA1c status) | categorical | (1)HbA1c measurement at the beginning of the observation period; (2) Age, and (3)fractional disease duration | 3, categorical | HbA1c status | continuous (could also be categorical) | 	What patient characteristics that were predictive of satisfactory glycaemic control | H0: no correlation between the predictors and HbA1c status | 0.05 | [Prediction of glycaemic control in young children and adolescents with type 1 diabetes mellitus using mixed-effects logistic regression modelling](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182181) |
   |||||||||
 
+
+![](https://github.com/eb3237/PUI2018_eb3237/blob/master/HW5_eb3237/Screen%20Shot%202018-10-09%20at%203.19.40%20PM.png)
+
+#### Paper 3
 
 **Assignments 3 and 4**
 
