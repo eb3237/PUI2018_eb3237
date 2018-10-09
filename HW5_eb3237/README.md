@@ -38,7 +38,7 @@ Logistic Regression	| 1, satisfactory or not satisfactory glycaemic control (HbA
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var typ**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
-Correlation	| 1, the mimicry score | continious | correlated  with all the scores of the automatic imitation task (i.e., congruency effect, facilitation effect, and interference effect for reaction times as well as for error rates) | 1, continious | 0 | 0 | 	Is there the relationship between mimicry and automatic imitation | H0: no correlation between the mimicry score and the  automatic imitation task score | 0.05 | [Mimicry and automatic imitation are not correlated](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0183784) |
+Correlation	| 1, the mimicry score | continious | automatic imitation task score (i.e., congruency effect, facilitation effect, and interference effect for reaction times) | 1, continious | 0 | 0 | 	Is there the relationship between mimicry and automatic imitation | H0: no correlation between the mimicry score and the  automatic imitation task score | 0.05 | [Mimicry and automatic imitation are not correlated](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0183784) |
   |||||||||
   
   ![](https://github.com/eb3237/PUI2018_eb3237/blob/master/HW5_eb3237/Screen%20Shot%202018-10-09%20at%203.28.57%20PM.png)
