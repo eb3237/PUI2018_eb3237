@@ -7,7 +7,8 @@ Hi Evgeniya! Here's my review :) Don't think we have met before, hope to say hi 
 1) Verify if null and alternative hypothesis are formulated correctly
 2) Verify that the data supports the project
 3) Choose an appropriate statistical test to test H0 given the type of data, and the question asked.
-4) Write your comments, suggestions, and suggested an appropriate statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md. Suggest variations on the question, if you think it may be made more interesting.
+
+Write your comments, suggestions, and suggested an appropriate statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md. Suggest variations on the question, if you think it may be made more interesting.
 Submit a pull request to the original repository to share your markdown.
 
 # qg412's review:
@@ -36,15 +37,18 @@ H_A: M - W >= 0
 Where M is the average trip time of men biking on weekdays in NYC
 While W is the average trip time of women biking on weekdays in NYC
 
-- I think you can determine and state the significance level together with the hypothesis statements, for example "at a significance level of p=0.05". Rationale: Prof Bianco mentioned in lecture that it is very important to set the significance level at the outset, if not we risk being accused of setting the p-value at the end of analysis which is statistically morally wrong. 
+- I think you can determine and state the significance level together with the hypothesis statements, for example "at a significance level of p=0.05". Rationale: Prof Bianco mentioned in lecture that it is very important to set the significance level at the outset, if not we risk being accused of setting the p-value at the end of analysis which is statistically (& morally) wrong. 
 
 ### 2) Verifying if data supports project
 
-dsf
-
+From the plots generated (1: Bar graph of average trip duration & Average trip duration for each gender, 2 & 3: Line graphs of average trip duration across the weekday for each gender respective), it seems that longer trip duration are taken by women instead of men, which is supporting the null hypothesis and not supporting the alterntive hypothesis. 
 
 ### 3) Chosing an appropriate statistical test
 
-ddd
+Decision tree resulting in the choice of statistical test (credits @ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116565/): 
 
-### 4) 
+What data type is the datasets? > Numerical due to trip duration > Does it follow normal distribution? > Yes, the average trip duration is likely to observe a bell shape normal distribution> Use Parametric Tests, but is the two samples paired or unpaired? > Unpaired, because there is an unlikely possibility of the values in the males cycling dataset being related to or being influenced by the values in the females cycling dataset > Therefore, choose **T-test** for 2 groups of unpaired sample. 
+
+### 4) Additional suggestion on variation on question
+
+I think one interesting question that we can ask further is: do men cycle a longer average trip duration than women from the same starting location? This will involve pairing the dataset and narrowing down the study area to selected locations. This can perhaps shed some light on travel patterns of different genders. For eg if we find that women travel shorter on bicycle- one of the many potential reason could be because of the fact that they tend to find jobs near homes so that they can reach home to care for their children? 
