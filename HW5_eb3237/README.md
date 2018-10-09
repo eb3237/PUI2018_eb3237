@@ -8,6 +8,9 @@ I worked alone on this assignment as required.
 I first forked and cloned Cyrus Blankinship repository and then reviewed the assignment. 
 Comments are saved as HW5_Assignment1_Citibike_review_eb3237.md
 
+Pull request was submitted at 4:20 PM on Oct 9
+
+
 **Assignment 2**
 
 Worked alone, the analysis of the paper is below.
