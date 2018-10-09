@@ -1,5 +1,5 @@
 
-*HW5 Assinment 1*
+***HW5 Assinment 1***
 
 ** Review of the Citibike project by cb4184 - Cyrus Blankinship** 
 
@@ -27,7 +27,7 @@ The Alternative hypothesis also could be changed accordingly.
 Young adults (ages 18-30) ride greater average distances per trip than older adults (ages 30-100) 
 
 
-**(b) Verify that the the data supports the project
+**(b) Verify that the the data supports the project**
 
 1) The formular for average trip has limitations as the author suggested. He is using Haversine formula. 
 He should state limitations that because we dont know which exact route a citibike user actually took without 
