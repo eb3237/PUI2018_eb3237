@@ -14,6 +14,7 @@ Submit a pull request to the original repository to share your markdown.
 **1) On the formulation of the Null ($H_0$) and Alternative Hypothesis ($H_A$)**
 
 The given $H_0$: _The average trip time of men biking on weekdays is the same or lower than the average trip time of women biking on weekdays_
+
 The given $H_A$: _The average trip time of men biking on weekdays is more than the average trip time of women biking on weekdays_
 
 Comments: I think this is an interesting hypothesis- as a woman myself, I think there might be more factors inhibiting my willingness and ultimately, frequency and duration of cycling. For example, I don't want to cycle when I am wearing dress or skirt out of fear of my "modesty", something which men are not subjected to. It would be thus be interesting to see whether the analysis showed that men tend to cycle longer than women. 
