@@ -21,17 +21,16 @@ cb4184 - Null Hypothesis  H0:
 Young adults (ages 18-30) on average ride citi bikes equal or smaller distances per trip to the control group.
 
 Suggested by eb3237 - Null Hypothesis  H0:
-Young adults (ages 18-30) ride equal or smaller average distances per trip than older adults (ages 30-100)  
+Young adults (ages 18-30) ride equal or smaller average distances per trip than adults of other age groups.  
 
-The Alternative hypothesis also could be changed accordingly. 
-Young adults (ages 18-30) ride greater average distances per trip than older adults (ages 30-100) 
+Suggested by eb3237 - The Alternative hypothesis Ha:
+Young adults (ages 18-30) ride greater average distances per trip than adults of other age groups. 
 
 
 **(b) Verify that the the data supports the project**
 
-1) The formular for average trip has limitations as the author suggested. He is using Haversine formula. 
-He should state limitations that because we dont know which exact route a citibike user actually took without 
-GPS data on each bike. 
+1) The formula for average trip has limitations as the author suggested. He is using Haversine formula. 
+He should state additional limitations, for example since we don't know which exact route a citibike user actually took without GPS data on each bike, the average trip distance is not calculated properly. 
 
 2) As I said above, riders were not divided in groups to compare. 
 So no distribution of average distance of Citibike bikers by age.
