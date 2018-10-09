@@ -40,6 +40,8 @@ So no distribution of average distance of Citibike bikers by age.
 
 No test presented. Author did not stay whether he accepts or rejects his Null hypothesis. 
 
+Z-test would be an appropriate test to test H0 given the type of data. 
+ 
 Would be good to set two groups of categorical data and run the analysis, 
 hense accept or reject the Null hypothesis as per instruction.
 
