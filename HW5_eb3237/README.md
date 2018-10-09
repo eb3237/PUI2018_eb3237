@@ -1,4 +1,6 @@
 
+## PUI2018 HW 5 session 1 (mornings).
+
 **Assignment 1**
 
 For this Assignment, I followed the professor requirements to review cb4184 Citibike assignment. 
@@ -8,7 +10,20 @@ Comments are saved as HW5_Assignment1_Citibike_review_eb3237.md
 
 **Assignment 2**
 
-Worked alone, the analysis of the paper is below
+Worked alone, the analysis of the paper is below.
+
+| **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
+|:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
+ANCOVA	| 3 APL groups: (1)professional, (2)semi-professional, (3)non-professional | categorical | (1)Five motor tests (sprint, agility, dribbling, ball control, shooting); (2) the anthropometric characteristics and (3) relative age| 3, continious | age | continuous (could also be categorical) | 	Whether all predictors (i.e., the motor performance tests, the anthropometric characteristics and relative age) correspond to the later achieved APL | H0: no correlation between the predictors and APL groups (1,2,3) | 0.001 | [The influence of speed abilities and technical skills in early adolescence on adult success in soccer: A long-term prospective analysis using ANOVA and SEM approaches](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182211#sec003) |
+  |||||||||
+
+
+
+| **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
+|:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
+ANCOVA	| 3 APL groups: (1)professional, (2)semi-professional, (3)non-professional | categorical | (1)Five motor tests (sprint, agility, dribbling, ball control, shooting); (2) the anthropometric characteristics and (3) relative age| 3, continious | age | continuous (could also be categorical) | 	Whether all predictors (i.e., the motor performance tests, the anthropometric characteristics and relative age) correspond to the later achieved APL | H0: no correlation between the predictors and APL groups (1,2,3) | 0.001 | [The influence of speed abilities and technical skills in early adolescence on adult success in soccer: A long-term prospective analysis using ANOVA and SEM approaches](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182211#sec003) |
+  |||||||||  
+
 
 **Assignments 3 and 4**
 
