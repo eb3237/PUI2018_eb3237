@@ -13,7 +13,9 @@ I produced two plots.
 
 ## Fig 1. Dynamics of the Median House prices for the top 5 largest cities in Texas.
 
-# The analysis shows that there is a growth tendency in Fort Worth, whereas the prices in other four cities vary a lot. 
+The analysis shows that there is a growth tendency in Fort Worth, whereas the prices in other four cities vary a lot. Prices in Dallas and Houston basically at the level where they were in the same period last year. 
+
+
 
 
 
