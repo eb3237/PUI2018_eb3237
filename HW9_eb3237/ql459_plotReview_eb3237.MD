@@ -27,4 +27,4 @@ It is not easy to distinguish between the two pieces of information that the aut
 
 1. It seems the plot is reproducing the data correctly, however as per my comment above, frequency units would be good to add to add more clarity.
 
-2. Caption also could emphasize a point that author wanted to say (i.e. the highest frequency of usage is ... seconds).
+2. Caption also could emphasize a point that author wanted to say (i.e. the highest frequency of usage is ... ).
