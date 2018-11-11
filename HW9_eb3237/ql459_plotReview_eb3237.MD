@@ -38,3 +38,5 @@ It is not easy to distinguish between the two pieces of information that the aut
 2. Change the color of the pink line and add a description of it in the legend
 
 3. Add well-informed caption for the plot to emphasize a point that author wanted to say (i.e. the highest frequency of usage is observed ... ).
+
+4. Title can also be changed to have no shortcuts like "Nov. 15th, 2017"
