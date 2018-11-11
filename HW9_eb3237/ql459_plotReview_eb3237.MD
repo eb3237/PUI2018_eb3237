@@ -2,7 +2,7 @@ Author: Qiuyao Liu, ql459
 
 Reviewer: eb3237
 
-Plot: The trip duration distribution of NYC green taxi on 10am in Nov. 15th, 2017
+#### Plot: The trip duration distribution of NYC green taxi on 10am in Nov. 15th, 2017
 
 ### CLARITY: 
 
