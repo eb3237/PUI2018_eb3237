@@ -2,7 +2,7 @@
 
 ## Plot 1
 
-![Create test.csv](HW-9-1.png)
+![Create test.csv](Screen Shot 2018-11-06 at 11.38.09 PM.png)
 
 ## Plot 2
 
