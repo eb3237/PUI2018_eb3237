@@ -16,7 +16,7 @@ The first plot can be improved by starting the y –axis from zero and using hor
 [Review from_ml6506](https://github.com/eb3237/PUI2018_eb3237/blob/master/HW8_eb3237/eb3237_plotReview_ml6506.md)
 
 
-Suggestions
+Suggestion:
 The plot looks very good but I think there is one thing worth to be suggested. 
 Compare this two plot, we could find they convey the same information and the second one is more clear. 
 In this case, we could only keep one plot.
