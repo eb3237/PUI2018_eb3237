@@ -27,9 +27,9 @@ Both reviewers did not suggest any specific improvements to my existing plots. A
 
 However, for the purpose of the assignment, I am creating a new plot and uploading it below. 
 
-I am improving the first plot by starting the y –axis from zero. The reason I did not do that initially is because it does not actually make sense: house prices never start from zero, and for the purpose of my analysis, in Texas it made a perfect sense to start from $200K. I dont see that the plot has been improved. 
+I am changing the first plot by starting the y –axis from zero. The reason I did not do that initially is because it does not actually make sense: house prices never start from zero, and for the purpose of my analysis, in Texas it made a perfect sense to start from $200K. By doing that, the price dynamics was much more clear. So I don't think that the plot has been improved. 
 
-I am not using horizontal bars as they would look really ugly and uninformative.  
+I am not using horizontal bars as they would look absolutely uninformative.  
 
 
 
