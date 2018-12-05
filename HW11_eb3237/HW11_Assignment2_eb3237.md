@@ -13,7 +13,7 @@ The first plot can be improved by starting the y –axis from zero and using hor
 
 ## Feedback No.2:
 
-[Review from_ml6506] (https://github.com/eb3237/PUI2018_eb3237/blob/master/HW8_eb3237/eb3237_plotReview_ml6506.md)
+[Review from_ml6506](https://github.com/eb3237/PUI2018_eb3237/blob/master/HW8_eb3237/eb3237_plotReview_ml6506.md)
 
 
 Suggestions
