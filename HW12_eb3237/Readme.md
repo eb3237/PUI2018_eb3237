@@ -13,4 +13,4 @@ what are peculiar the characteristics in the economic evolution of each cluster 
 upward trends, downward trends, inflection points, discontinuities?
 
 
-## worked with Linda Lyu, she helped me a lot
+#### Worked with Linda Lyu on both assignments, she helped me a lot
