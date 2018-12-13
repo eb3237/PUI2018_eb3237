@@ -11,3 +11,6 @@ Dont start at the last minute!
 Comment on patterns you see: which zipcodes have similar time evolution in the number of businesses? 
 what are peculiar the characteristics in the economic evolution of each cluster ? 
 upward trends, downward trends, inflection points, discontinuities?
+
+
+## worked with Linda Lyu, she helped me a lot
